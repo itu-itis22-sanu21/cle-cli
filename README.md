@@ -185,7 +185,7 @@ cle verify <prove task id>
 
 Publish and Register CLE Onchain.
 
-See also: [Verifier Contract Interface](https://github.com/DelphinusLab/halo2aggregator-s/blob/main/sol/contracts/AggregatorVerifier.sol#L40).
+See also: [Verifier Contract Interface](https://github.com/DelphinusLab/halo2aggregator-s/blob/main/sol/contracts/AggregatorVerifier.sol#L40)
 
 #### Usage
 ```bash
